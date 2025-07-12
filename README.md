@@ -1,6 +1,6 @@
 # Client-Side Image Manipulator
 
-A privacy-focused, browser-based tool for quick image manipulation. Built with Vite, React, TypeScript, and the power of WebAssembly.
+A privacy-focused, browser-based tool for quick image manipulation. Built with React, TypeScript.
 
 ![Screenshot of the tool in action](public/Screenshot.png) <!-- We will add this later -->
 
@@ -9,7 +9,6 @@ A privacy-focused, browser-based tool for quick image manipulation. Built with V
 *   **Resize:** Change image dimensions with aspect ratio locking.
 *   **Format Conversion:** Convert between JPEG, PNG, and WebP.
 *   **Quality Adjustment:** Control the compression level for JPEG and WebP.
-*   **Basic Filters:** Apply effects like grayscale.
 *   **100% Private:** All processing happens directly in your browser. Your images never leave your computer.
 
 ## 🚀 Why This Project Exists
