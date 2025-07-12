@@ -2,7 +2,7 @@
 
 A privacy-focused, browser-based tool for quick image manipulation. Built with Vite, React, TypeScript, and the power of WebAssembly.
 
-![Screenshot of the tool in action](/Screenshot.png) 
+![Screenshot of the tool in action](public/Screenshot.png) <!-- We will add this later -->
 
 ## ✨ Features
 
