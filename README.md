@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/fady17/image-tool.git
-    cd image-tools
+    cd image-tool
     ```
 
 2.  **Install dependencies:**
